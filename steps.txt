@@ -1,0 +1,6 @@
+1) Create a virtual environment with any name
+   i) activate the environment 
+   ii) upgrade pip
+   iii) install python packages - opencv-python, mediapipe 
+2) Run the basics.py file to check
+3) Use module.py file to use it in another program
