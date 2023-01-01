@@ -2,5 +2,7 @@
    i) activate the environment 
    ii) upgrade pip
    iii) install python packages - opencv-python, mediapipe 
-2) Run the basics.py file to check
-3) Use module.py file to use it in another program
+2) Run the FingerCountingProject.py 
+3) Ensure all of the files are in single folder
+
+Note : Make sure required packages are installed and location given of "finger" folder is correct
